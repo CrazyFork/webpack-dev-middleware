@@ -1,3 +1,18 @@
+# NOTES
+发知乎了: https://zhuanlan.zhihu.com/p/69549215
+
+
+todo: 
+* how the url & filename are matched?
+* https://webpack.js.org/contribute/writing-a-plugin/
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
